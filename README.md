@@ -10,7 +10,7 @@
     
 ⛏   Fun fact **I like to develop formulas to hone my reasoning skills & I enjoy playing chess♟**
 
-📫   How to reach me **jragrosinaldo@gmail.com** or <p align="left"> <a href="https://linkedin.com/in/www.linkedin.com/in/jonilson-antonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonilson-antonio" height="30" width="40" /> LinkedIn</a>
+📫   How to reach me **jragrosinaldo@gmail.com** or <p align="left"> <a href="https://linkedin.com/in/www.linkedin.com/in/jonilson-antonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonilson-antonio" height="30" width="40" /> </a>
 </p>
 
 <br />
