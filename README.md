@@ -1,16 +1,16 @@
 ![IMG_0465](https://github.com/JonilsonRosinaldo/JonilsonRosinaldo/assets/161578163/265e9bb1-a66c-4782-888a-be847849705a)
 <h1 align="center">Welcome! I'm Jonilson Rosinaldo</h1>
-<h3 align="center">A passionate Python Developer</h3>
+<h3 align="center">A passionate Python Data Analyst and Developer</h3>
 <br />
 
 
-🌱   I’m currently learning **Flask, JavaScript, SQL**
+🌱   I’m currently learning **Advanced Maths and Statistics**
 
 🧭   I'm on track to learn **JavaScript, Node, Express, AWS, GCP, Docker, Kubernetes, Django, React**
     
-⛏   Fun fact **I like to develop formulas to hone my reasoning**
+⛏   Fun fact **I like to develop formulas to hone my reasoning skills & I enjoy playing chess♟**
 
-📫   How to reach me **jragrosinaldo@gmail.com**
+📫   How to reach me **jragrosinaldo@gmail.com** or <p href="www.linkedin.com/in/jonilson-antonio">Jonilson LinkedIn<p/>
 
 <br />
 
