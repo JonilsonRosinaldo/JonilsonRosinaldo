@@ -1,6 +1,6 @@
 ![IMG_0465](https://github.com/JonilsonRosinaldo/JonilsonRosinaldo/assets/161578163/265e9bb1-a66c-4782-888a-be847849705a)
 <h1 align="center">Welcome! I'm Jonilson Rosinaldo</h1>
-<h3 align="center">A passionate Python Data Analyst and Developer</h3>
+<h3 align="center">A passionate Python Data Analyst & Developer</h3>
 <br />
 
 
