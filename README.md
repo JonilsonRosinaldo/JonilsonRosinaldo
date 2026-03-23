@@ -9,13 +9,13 @@
 
 🧠 Fun fact I like to develop mathematical formulas to hone my reasoning skills & I enjoy playing chess ♟️
 
-📫   How to reach me **jragrosinaldo@gmail.com** or <p align="left"> <a href="https://linkedin.com/in/www.linkedin.com/in/jonilson-antonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonilson-antonio" height="30" width="40" /> </a>
+📫   How to reach me **jragrosinaldo@gmail.com** or <p align="left"> <a href="https://www.linkedin.com/in/jonilson-antonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonilson-antonio" height="30" width="40" /> </a>
 </p> 
 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonilson-antonio/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@BecomeWiserToday) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonilsonrosinaldo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonilson-antonio/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@BecomeWiserToday) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonilsonrosinaldo@gmail.com) 
 
 <br />
 
