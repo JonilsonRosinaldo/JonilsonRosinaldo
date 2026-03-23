@@ -4,13 +4,10 @@
 <br />
 
 🌱 I’m a **Masters Student in Applied Data Science & Analytics** <br><br>
-
 🧭 I'm on track to learn **MCPs, Embeddings, Vector Databases, AI Development, Advanced Calculus**, JavaScript <br><br>
-
-🧠 Fun fact I like to develop mathematical formulas to hone my reasoning skills & I enjoy playing chess ♟️
-
-📫   How to reach me **jragrosinaldo@gmail.com** or <p align="left"> <a href="https://www.linkedin.com/in/jonilson-antonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonilson-antonio" height="30" width="40" /> </a>
-</p> 
+🧠 Fun fact I like to develop mathematical formulas to hone my reasoning skills & I enjoy playing chess ♟️<br><br>
+📫   How to reach me **jragrosinaldo@gmail.com** or  <a href="https://www.linkedin.com/in/jonilson-antonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonilson-antonio" height="30" width="40" /> </a> 
+ <br><br>
 
 
 
